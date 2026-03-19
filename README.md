@@ -2,6 +2,13 @@
 
 **Team:** Andy Kapoor, Tyler Corazao, & Yiyao Wang
 
+## Repository Structure
+```
+.
+├── FormulationAnalyses.ipynb   # Main analysis notebook
+├── README.md
+└── data/                       # PLGA microparticle dataset (see source below)
+```
 ---
 
 ## Overview
@@ -97,14 +104,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy rdkit deepchem
 ```
 
 ---
-
-## Repository Structure
-```
-.
-├── FormulationAnalyses.ipynb   # Main analysis notebook
-├── README.md
-└── data/                       # PLGA microparticle dataset (see source below)
-```
 
 **Dataset download:** [Bao et al., Scientific Data (2025)](https://doi.org/10.1038/s41597-025-04621-9)
 
