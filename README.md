@@ -111,7 +111,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy rdkit deepchem
 
 ## Limitations & Future Work
 
-- Dataset compiled from hundreds of labs with differing protocols — unavoidable inter-study noise
+- Dataset compiled from hundreds of labs with differing protocols. Unavoidable inter-study noise
 - 10 formulation descriptors may be insufficient to fully constrain release kinetics
 - Future directions:
   - Incorporate polymer chemistry details and processing metadata
