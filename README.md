@@ -6,6 +6,7 @@
 ```
 .
 ├── FormulationAnalyses.ipynb   # Main analysis notebook
+├── PLGA_ML_Paper               # Paper associated with the analysis notebook
 ├── README.md
 └── data/                       # PLGA microparticle dataset (see source below)
 ```
